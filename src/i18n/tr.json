@@ -1,0 +1,162 @@
+{
+  "key": "tr",
+  "label": "Türkçe",
+
+  "productTable": {
+    "product": "Ürün",
+    "quantity": "Miktar",
+    "price": "Fiyat"
+  },
+
+  "modal": {
+    "tableTransfer": "Masayı Taşımak istediğinize eminmisiniz?"
+  },
+
+  "form": {
+    "required": "zorunlu"
+  },
+
+  "settings": {
+    "message": " Değişiklikleriniz otomatik olarak kaydedilmektedir. Değiştirdiğiniz ayarların geçerli olabilmesi için sayfayı yenilemeniz gerekmektedir.",
+    "ringTone": "Zil Sesi",
+    "ringAgain": "Zil Sesi Tekrarı",
+    "again": "Tekrar",
+    "language": "Dil",
+    "orderStatusSelection": "Sipariş Durumu Seçimi"
+  },
+
+  "button": {
+    "search": "Sorgula",
+    "tableHistory": "Masa Geçmişi",
+    "addExpense": "Gider Ekle",
+    "zReport": "Z Raporu",
+    "save": "Kaydet",
+    "cancel": "İptal",
+    "close": "Kapat",
+    "remove": "Kaldır",
+    "saveAndRefresh": "Kaydet ve Yenile"
+  },
+
+  "kitchen": {
+    "approve": "Onayla",
+    "ready": "Hazır"
+  },
+  "case": {
+    "count": "Adet",
+    "caseTotal": "Kasa Toplam",
+    "expense": "Gider",
+    "cashExpense": "Nakit Gider",
+    "creditExpense": "Kart Gider",
+    "dailyGain": "Günlük Kazanç",
+    "cashGain": "Nakit Kazanç",
+    "creditGain": "Kart Kazanç",
+    "pendingOrder": "Bekleyen Sipariş",
+    "pendingOrderAmmount": "Bekleyen Sipariş Tutarı",
+
+    "completedOrder": "Tamamlanan Sipariş",
+    "completedOrderAmmount": "Tamamlanan Sipariş Tutarı",
+
+    "canceledReturnedOrder": "İptal/İade Sipariş",
+    "canceledReturnedOrderAmmount": "İptal/İade Sipariş Tutarı",
+
+    "cashAmmount": "Nakit Ödemem Tutarı",
+    "creditAmmount": "Kart ile Ödeme Tutarı",
+    "discountAmmount": "İndirim Tutarı",
+    "totalOrder": "Toplam Sipariş",
+    "expenseForm": {
+      "expenseType": "Gider Türü",
+      "paymentType": "Ödeme Türü",
+      "price": "Fiyat",
+      "description": "Açıklama"
+    },
+    "control": {
+      "fieldRequired": "Gerkli Alanları Doldurunuz."
+    }
+  },
+
+  "routes": {
+    "tables": "Masalar",
+    "products": "Menü",
+    "kitchen": "Mutfak",
+    "case": "Kasa",
+    "orders": "Siparişler",
+    "settings": "Ayarlar"
+  },
+
+  "modifierSelect": {
+    "control": {
+      "fieldRequired": "alanı boş bırakılamaz",
+      "fieldMin": "alanı minumum seçimi karşılamıyor",
+      "fieldMax": "alanı maksimum seçimi karşılamıyor"
+    }
+  },
+
+  "repport": {
+    "notFountInformation": "Bilgi Bulunamadı!",
+    "notOrderFound": "Sipariş Bulunamadı!",
+    "notActiveOrderFound": "Aktif Sipariş Bulunamadı!",
+    "selectTableCreateOrder": "Sipariş oluşturabilmek için masa seçiniz!",
+    "verySoon": "Çok Yakında..."
+  },
+
+  "orderStatusSelection": {
+    "inLine": "Sıralı",
+    "multiple": "Çoklu"
+  },
+
+  "auth": {
+    "welcome": "Cyber İstanbul ePOS",
+    "email": "E-Posta",
+    "password": "Şifre",
+    "rememberMe": "Beni Hatırla!",
+    "login": "Giriş Yap",
+    "notFoundUser": "Kullanıcı Bulunamadı.",
+    "logOut": "Çıkış Yap"
+  },
+
+  "alert": {
+    "noInternetConnection": "İnternet Bağlantısı Yok!",
+    "noServerConnection": "Sunucu Bağlantısı Yok!"
+  },
+  "error": {
+    "UNEXPECTED": "İşlem sırasında beklenmedik bir hatayla karşılaşıldı!",
+    "404": "404",
+    "401": "401",
+    "502": "502"
+  },
+  "NOCHOICE": "--Seçim Yok--",
+  "orderStatus": {
+    "CREATED": "Yeni Sipariş",
+    "PREPARING": "Hazırlanıyor",
+    "READY": "Hazır",
+    "PAID": "Ödendi",
+    "ONTHEWAY": "Yolda",
+    "COMPLATED": "Tamamlandı",
+    "CANCELLED": "İptal Edildi",
+    "RETURNED": "İade Edildi"
+  },
+  "orderProductStatus": {
+    "WAITING": "Hazırlanıyor",
+    "APPROVED": "Hazır"
+  },
+  "paymentType": {
+    "CASH": "Nakit",
+    "CREDIT": "Kredi Kartı",
+    "DISCOUNT": "İndirim",
+    "CHANGE": "Para Üstü",
+    "RETURNED": "İade Edildi",
+    "CANCELLED": "İptal Edildi"
+  },
+  "status": {
+    "ACTIVE": "Aktif",
+    "PASSIVE": "Pasif",
+    "DELETED": "Silindi"
+  },
+  "userRole": { "USER": "Garson" },
+  "quantityType": {
+    "PIECE": "Adet",
+    "PORTION": "Porsiton",
+    "KILOGRAM": "Kilogram",
+    "GRAM": "Gram"
+  }
+}
