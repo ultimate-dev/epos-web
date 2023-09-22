@@ -3,7 +3,7 @@ import { ImpulseSpinner } from "react-spinners-kit";
 import { useNavigate } from "react-router";
 import { observer } from "mobx-react-lite";
 // Configs
-import { APP_NAME, OWNER_NAME } from "constants/configs";
+import { APP_NAME } from "constants/configs";
 // Components
 import Ripple from "components/Ripple";
 import Checkbox from "components/CheckBox";
@@ -45,7 +45,7 @@ const LoginPage = () => {
           />
           <div className="-mb-5 ml-3" style={{ textShadow: "0 0 10px rgba(0,0,0,0.08)" }}>
             <div className="font-bold text-6xl">{APP_NAME}</div>
-            <div className="font-semibold text-2xl">{OWNER_NAME}</div>
+           {/* <div className="font-semibold text-2xl">{OWNER_NAME}</div>*/}
           </div>
         </div>
       </div>

@@ -1,5 +1,4 @@
 import Ripple from "components/Ripple";
-import { APP_NAME, OWNER_NAME } from "constants/configs";
 import useMomentTime from "hooks/useMomentTime";
 import i18n from "i18n";
 import moment from "moment";
